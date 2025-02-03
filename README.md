@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thiago-cavalcant
-- 👀 I’m interested in back-ending development and game industry
+- 👀 I’m interested in back-end development and game industry
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: he/him
