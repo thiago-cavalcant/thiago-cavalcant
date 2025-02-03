@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiago-cavalcant
-- 👀 I’m interested in full-stack development and game industry
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in back-ending development and game industry
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: he/him
 - 📫 How to reach me pitercavalcanti.contato@gmail.com or [linkedin profile](https://www.linkedin.com/in/piter-cavalcanti-047b50275/)
